@@ -1,0 +1,21 @@
+ro.vendor.vivo.product.model=PD1936
+ro.vivo.product.model=PD1936
+ro.vivo.hardware.version=V1936A
+ro.hardware.bbk=V1936A
+ro.vivo.os.version=11
+ro.debuggable=1
+ro.boot.selinux=permissive
+ro.treble.enabled=true
+
+# ADB
+ro.adb.secure=0
+ro.boot.dynamic_partitions=true
+
+# Gatekeeper
+vendor.gatekeeper.disable_spu=true
+
+# Battery Property
+ro.charger.enable_suspend=1
+
+# Reset allocatable space
+ro.dynamic.full_size=9126805504

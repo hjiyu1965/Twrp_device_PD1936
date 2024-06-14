@@ -1,2 +1,1 @@
-# Twrp_device_PD1936
- 
+# PD1936 twrp tree
